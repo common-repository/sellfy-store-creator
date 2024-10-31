@@ -1,0 +1,33 @@
+.sellfy-one-step{
+    margin-bottom: 30px;
+}
+.sellfy-logo{
+    text-decoration: none;
+    outline: none;
+}
+.sellfy-logo img{
+    vertical-align: middle;
+    margin-top: -5px;
+    outline: none;
+}
+#sellfy_store_error_message{
+    display: none;
+}
+.error .success-text{
+    display: none;
+}
+.updated .error-text{
+    display: none;
+}
+.updated .store-create{
+    display: none;
+}
+.updated.created .store-create{
+    display: inline;
+}
+.updated.created .store-update {
+    display: none;
+}
+.update-page .create-button, .create-page .update-button{
+    display: none;
+}
